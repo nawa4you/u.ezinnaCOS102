@@ -1,0 +1,14 @@
+1. Receive payment
+2. Verify payment
+
+-if successful:
+    -print receipt
+    -bag the items
+
+-Else:
+    inform customer of payment failure
+    ask for retry or cancel
+
+3. (optional additional services)
+
+4. Thank customer
